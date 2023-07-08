@@ -6,6 +6,9 @@ div{
 .push{
     height:600px;
     background-image: url("image/new/pexels-scott-webb-1029599.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     margin-bottom:10px;
     padding:10px;
 }
